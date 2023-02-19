@@ -1,0 +1,33 @@
+.profile{
+margin: 0 auto;
+width: 300px;
+}
+.description{
+text-align: center;
+
+}
+.avatar{
+        display: block;
+            width: 100%;
+            height: auto;
+}
+.stats{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    justify-content: space-evenly;
+    padding: 0;
+}
+.name{
+    font-size:x-large;
+    font-weight: 700;
+}
+.location{
+    font-size: large;
+}
+.label{
+
+}
+.quantity{
+    
+}
